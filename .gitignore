@@ -103,3 +103,11 @@ ENV/
 ##### personal section starts here #### 
 # tokens, passwords, credentials
 credentials*
+
+# output
+*.xls
+*.xlsx
+*.doc
+*.docx
+*.dat
+*.csv
